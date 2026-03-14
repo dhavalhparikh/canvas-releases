@@ -2,7 +2,7 @@
 
 A fast, modern CAN bus log visualization and analysis tool for embedded and automotive engineers. Free, open source, and AI-powered.
 
-**[getcanvas.app](https://getcanvas.app)**
+**[getcanvas.dev](https://getcanvas.dev)**
 
 ---
 
